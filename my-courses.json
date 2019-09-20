@@ -1,8 +1,8 @@
 {
   "student": "Alex Wang",
   "version": "1.0.0",
-  "timestamp": "2019-09-13T11:39:12+0000",
-  "count": 4,
+  "timestamp": "2019-09-20T12:25:05+0000",
+  "count": 10,
   "data": [
     { "id": 1, "courseCode": "BTP400", "courseName": "Java Programming" },
     { "id": 2, "courseCode": "BTN410", "courseName": "Network Programming" },
