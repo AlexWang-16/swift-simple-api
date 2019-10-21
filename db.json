@@ -1,4 +1,5 @@
 {
+  "categoryCount": 9,
   "items": [
     {
       "id": 1,
@@ -33,7 +34,7 @@
       "itemName": "White Miso Paste",
       "quantity": 1,
       "unit": "bag",
-      "category": "soya"
+      "category": "vegetable"
     },
     {
       "id": 6,
