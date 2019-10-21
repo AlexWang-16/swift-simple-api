@@ -1,5 +1,7 @@
 {
-  "categoryCount": 9,
+  "category": {
+    "count": 9
+  },
   "items": [
     {
       "id": 1,
