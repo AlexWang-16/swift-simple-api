@@ -1,147 +1,178 @@
 {
-  "category": {
-    "count": 9
-  },
+  "category": [
+    {
+     "id": 1,
+      "name": "vegetables"
+    },
+    {
+      "id": 2,
+      "name": "meat"
+    },
+    {
+      "id": 3,
+      "name": "nuts"
+    },
+    {
+      "id": 4,
+      "name": "fruits"
+    },
+    {
+      "id": 5,
+      "name": "soups"
+    },
+    {
+      "id": 6,
+      "name": "premade food"
+    },
+    {
+      "id": 7,
+      "name": "paper"
+    },
+    {
+      "id": 8,
+      "name": "wheat"
+    }
+  ],
   "items": [
     {
       "id": 1,
       "itemName": "Pistashio",
       "quantity": 1,
       "unit": "bag",
-      "category": "nuts"
+      "categoryId": 3
     },
     {
       "id": 2,
       "itemName": "Almonds",
       "quantity": 1,
       "unit": "bag",
-      "category": "nuts"
+      "categoryId": 3
     },
     {
       "id": 3,
       "itemName": "Brocoli",
       "quantity": 4,
       "unit": "bunches",
-      "category": "vegetables"
+      "categoryId": 1
     },
     {
       "id": 4,
       "itemName": "Eggs",
       "quantity": 10,
       "unit": "",
-      "category": "meat"
+      "categoryId": 2
     },
     {
       "id": 5,
       "itemName": "White Miso Paste",
       "quantity": 1,
       "unit": "bag",
-      "category": "vegetable"
+      "categoryId": 1
     },
     {
       "id": 6,
       "itemName": "Apples",
       "quantity": 12,
       "unit": "",
-      "category": "fruits"
+      "categoryId": 4
     },
     {
       "id": 7,
       "itemName": "Mandarin",
       "quantity": 14,
       "unit": "",
-      "category": "fruits"
+      "categoryId": 4
     },
     {
       "id": 8,
       "itemName": "Garlic",
       "quantity": 3,
       "unit": "",
-      "category": "vegetables"
+      "categoryId": 1
     },
     {
       "id": 9,
       "itemName": "Chinese Kale",
       "quantity": 2,
       "unit": "bunches",
-      "category": "vegetables"
+      "categoryId": 1
     },
     {
       "id": 10,
       "itemName": "Soy Milk",
       "quantity": 4,
       "unit": "boxes",
-      "category": "vegetables"
+      "categoryId": 1
     },
     {
       "id": 11,
       "itemName": "Sardines",
       "quantity": 6,
       "unit": "cans",
-      "category": "meat"
+      "categoryId": 2
     },
     {
       "id": 12,
       "itemName": "Cream of mushroom soup",
       "quantity": 2,
       "unit": "cans",
-      "category": "soups"
+      "categoryId": 5
     },
     {
       "id": 13,
       "itemName": "Udon",
       "quantity": 10,
       "unit": "packs",
-      "category": "wheat"
+      "categoryId": 8
     },
     {
       "id": 14,
       "itemName": "Rye Bread",
       "quantity": 1,
       "unit": "bag",
-      "category": "wheat"
+      "categoryId": 8
     },
     {
       "id": 15,
       "itemName": "Kitchen Towel",
       "quantity": 2,
       "unit": "rolls",
-      "category": "paper"
+      "categoryId": 7
     },
     {
       "id": 16,
       "itemName": "Frozen pizza",
       "quantity": 1,
       "unit": "",
-      "category": "premade food"
+      "categoryId": 6
     },
     {
       "id": 17,
       "itemName": "Banana",
       "quantity": 6,
       "unit": "",
-      "category": "fruits"
+      "categoryId": 4
     },
     {
       "id": 18,
       "itemName": "Filet",
       "quantity": 8,
       "unit": "pieces",
-      "category": "meat"
+      "categoryId": 2
     },
     {
       "id": 19,
       "itemName": "Egg Tofu",
       "quantity": 2,
       "unit": "pieces",
-      "category": "vegetable"
+      "categoryId": 8
     },
     {
       "id": 20,
       "itemName": "Soba",
       "quantity": 2,
       "unit": "boxes",
-      "category": "wheat"
+      "categoryId": 8
     }
   ]
 }
