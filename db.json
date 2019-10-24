@@ -8,35 +8,31 @@
           "id": 3,
           "itemName": "Brocoli",
           "quantity": 4,
-          "unit": "bunches",
-          "categoryId": 1
+          "unit": "bunches"
         },
         {
           "id": 5,
           "itemName": "White Miso Paste",
           "quantity": 1,
-          "unit": "bag",
+          "unit": "bag"
         },
         {
           "id": 10,
           "itemName": "Soy Milk",
           "quantity": 4,
-          "unit": "boxes",
-          "categoryId": 1
+          "unit": "boxes"
         },
         {
           "id": 9,
           "itemName": "Chinese Kale",
           "quantity": 2,
-          "unit": "bunches",
-          "categoryId": 1
+          "unit": "bunches"
         },
         {
           "id": 8,
           "itemName": "Garlic",
           "quantity": 3,
-          "unit": "",
-          "categoryId": 1
+          "unit": ""
         }
       ]
     },
@@ -48,22 +44,19 @@
           "id": 4,
           "itemName": "Eggs",
           "quantity": 10,
-          "unit": "",
-          "categoryId": 2
+          "unit": ""
         },
         {
           "id": 11,
           "itemName": "Sardines",
           "quantity": 6,
-          "unit": "cans",
-          "categoryId": 2
+          "unit": "cans"
         },
         {
           "id": 18,
           "itemName": "Filet",
           "quantity": 8,
-          "unit": "pieces",
-          "categoryId": 2
+          "unit": "pieces"
         }
       ]
     },
@@ -75,15 +68,13 @@
           "id": 1,
           "itemName": "Pistashio",
           "quantity": 1,
-          "unit": "bag",
-          "categoryId": 3
+          "unit": "bag"
         },
         {
           "id": 2,
           "itemName": "Almonds",
           "quantity": 1,
-          "unit": "bag",
-          "categoryId": 3
+          "unit": "bag"
         }
       ]
     },
@@ -95,22 +86,19 @@
           "id": 6,
           "itemName": "Apples",
           "quantity": 12,
-          "unit": "",
-          "categoryId": 4
+          "unit": ""
         },
         {
           "id": 7,
           "itemName": "Mandarin",
           "quantity": 14,
-          "unit": "",
-          "categoryId": 4
+          "unit": ""
         },
         {
           "id": 17,
           "itemName": "Banana",
           "quantity": 6,
-          "unit": "",
-          "categoryId": 4
+          "unit": ""
         }
       ]
     },
@@ -122,8 +110,7 @@
           "id": 12,
           "itemName": "Cream of mushroom soup",
           "quantity": 2,
-          "unit": "cans",
-          "categoryId": 5
+          "unit": "cans"
         }
       ]
     },
@@ -135,8 +122,7 @@
           "id": 16,
           "itemName": "Frozen pizza",
           "quantity": 1,
-          "unit": "",
-          "categoryId": 6
+          "unit": ""
         }
       ]
     },
@@ -148,8 +134,7 @@
           "id": 15,
           "itemName": "Kitchen Towel",
           "quantity": 2,
-          "unit": "rolls",
-          "categoryId": 7
+          "unit": "rolls"
         }
       ]
     },
@@ -161,29 +146,25 @@
           "id": 13,
           "itemName": "Udon",
           "quantity": 10,
-          "unit": "packs",
-          "categoryId": 8
+          "unit": "packs"
         },
         {
           "id": 14,
           "itemName": "Rye Bread",
           "quantity": 1,
-          "unit": "bag",
-          "categoryId": 8
+          "unit": "bag"
         },
         {
           "id": 19,
           "itemName": "Egg Tofu",
           "quantity": 2,
-          "unit": "pieces",
-          "categoryId": 8
+          "unit": "pieces"
         },
         {
           "id": 20,
           "itemName": "Soba",
           "quantity": 2,
-          "unit": "boxes",
-          "categoryId": 8
+          "unit": "boxes"
         }
       ]
     }
